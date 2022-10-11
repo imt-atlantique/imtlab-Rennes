@@ -1,0 +1,91 @@
+site_name: IMT-atlantique lab Rennes
+site_description: Doc Info Ressources
+site_author: Laurent Mattlé
+
+nav:
+  - 'Accueil': index.md
+  - 'Règles' :
+    - 'Règles' : Regles.md
+    - 'Charte': chartes.md
+    - 'Sécurité' : Securite.md
+    - 'secourisme' : secourisme.md
+  - 'Modélisation 3D':
+    - 'modélisation': modelisation3D/modelisation3D.md
+  - 'Impression 3D' :
+    - 'Impression': impression_3D.md
+    - 'Résolution de problèmes' : impression_3D/troubleshooting.md
+    - 'Fiche de sécurité' : impression_3D/fds.md
+  - 'Machines et outils' : 
+    - 'imprimantes 3D' : machines/imprimantes_3D.md
+    - 'Découpeuse laser' : machines/découpeuse_laser.md
+    - 'Fraiseuses numériques' : machines/fraiseuses_num.md
+    - 'Combiné Ponceuse' : machines/Combiné_ponceuse.md
+    - 'Scie ruban' : machines/scie_ruban.md
+    - 'Microscope' : machines/microscope.md
+    - 'taraud' : Outils/taraud.md
+  - 'Ressources' :
+    - 'Flashlab' : Ressources/flashlab.md
+    - 'Halloween' : Ressources/Halloween.md
+    
+theme:
+    name: material
+    language: fr
+    repo_name: imt-atlantique/micropython_doc
+    logo: img/logolab.svg
+    favicon: img/favicon.ico
+    icon :
+      repo: fontawesome/brands/git-alt 
+
+    palette:
+        # Palette toggle for light mode
+        - scheme: slate
+          primary: light blue
+          accent: teal
+          toggle:
+            icon: material/weather-night
+            name: Désactiver le mode nocturne
+
+        # Palette toggle for dark mode
+        - scheme: default
+          primary: grey
+          accent: light green
+          toggle:
+            icon: material/weather-sunny
+            name: Activer le mode nocturne
+
+    features:
+      - navigation.instant
+      - navigation.tracking
+      - header.autohide
+     
+
+markdown_extensions:
+    - toc:
+        permalink: true
+    - admonition
+    - abbr
+    - attr_list
+    - md_in_html
+    - meta
+    - tables
+    - pymdownx.highlight:
+        use_pygments: true
+        linenums: true
+        anchor_linenums: true
+    - pymdownx.inlinehilite
+    - pymdownx.snippets:
+        auto_append:
+          - docs/includes/abbreviations.md
+    - pymdownx.superfences:
+        custom_fences:
+          - name: mermaid
+            class: mermaid
+            format: !!python/name:pymdownx.superfences.fence_code_format
+    - pymdownx.tabbed:
+        alternate_style: true 
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
+
+extra_css:
+  - stylesheets/extra.css
