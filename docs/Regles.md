@@ -27,7 +27,7 @@ On essaye au mieux de ses capacités du jour, d'être le plus "**bienveillant**"
 
 Chacun à une expérience différente. il n'y a pas qu'une seule solution à un problème et chacun peu explorer sa solution.
 
-La réelle plus value du labfab est justement d'expérimenter sa solution personnelle sans être jugé. Bien sur d'étre confronté aux regard des autres, à une façon différente d'appréhender la situation est source d'enrichissement.
+Une des plus value du labfab est justement d'expérimenter sa solution personnelle sans être jugé. Bien sur d'étre confronté aux regard des autres, à une façon différente d'appréhender la situation est source d'enrichissement.
 
 La phrase qu'on trouve souvent dans les labfab
 

@@ -3,15 +3,17 @@
 il y a de nombreux paramètres pour réaliser une impression 3D
 
 le modèle, le type de plastique, l'usure des matériaux de l'imprimante font qu'il y a toujours de petits détails à améliorer.
-## les parametres d'une impression
 
-Température de l'extrudeur (hotend)
-Température du plateau
-Vitesse
-Hauteur de couche
-Rétraction
-Remplissage
-première couche
+## les paramètres d'une impression
+
+- Température de l'extrudeur (hotend)
+- Température du plateau
+- Vitesse
+- Hauteur de couche
+- Rétraction
+- Remplissage
+- première couche
+- ...
 
 
 ## Résolutions de problèmes

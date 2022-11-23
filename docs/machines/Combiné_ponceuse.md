@@ -5,6 +5,6 @@
 
 Essayer d'utiliser le combiné dehors
 
-- Utiliser des gants
+- Utiliser des gants et des lunettes de protection
 
 

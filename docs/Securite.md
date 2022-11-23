@@ -1,5 +1,6 @@
 # Sécurity First
 
+![](assets/womenlivelonger.png)  
 
 ## Sécurité
 
@@ -15,22 +16,29 @@ Vous pouvez abîmer les outils ou le mobilier ( mais il ne faut pas le faire)
 
 Vous devez avant toute chose prendre possession de toutes les informations concernant le poste de travail, son usage , ses mesures de sécurité, 
 
-* le lab possède une trousse de secours
+- une liste de chose à faire en cas d'urgence.
+- une liste des secouriste du travail.
+- #todo plan et position des sst 
+  
+
+
+
+- Le lab possède une trousse de secours
 [img_emplacement ]
 
-* un extincteur
+- Deux extincteurs
 - Type d'extincteur
   #todo
 
 
 
-* une liste de chose à faire en cas d'urgence
+- Une liste de chose à faire en cas d'urgence
 
 il faut donc savoir ou se trouve ces éléments 
 il faut au moins avoir lu une fois la fiche sécurité de chaque outil utilisé
 
 le but du site est de vous apporter toutes les informations.
-si certaine manquerais vous nous informeriez.
+Si certaine manquerais vous nous informeriez.
 
 
 
