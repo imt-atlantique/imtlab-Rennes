@@ -4,7 +4,7 @@
 
 ## Sécurité
 
-le lab possède bien des outils qui peuvent être dangereux
+Le lab possède bien des outils qui peuvent être dangereux
 
 Vous pouvez être couper
 Vous pouvez être brûler
@@ -34,8 +34,9 @@ Vous devez avant toute chose prendre possession de toutes les informations conce
 
 - Une liste de chose à faire en cas d'urgence
 
-il faut donc savoir ou se trouve ces éléments 
-il faut au moins avoir lu une fois la fiche sécurité de chaque outil utilisé
+Il faut donc savoir ou se trouve ces éléments
+
+Il faut au moins avoir lu une fois la fiche sécurité de chaque outil utilisé
 
 le but du site est de vous apporter toutes les informations.
 Si certaine manquerais vous nous informeriez.

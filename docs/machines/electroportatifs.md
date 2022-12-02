@@ -1,7 +1,11 @@
 # Outils Élèctroportatifs
 
-le lab posséde une collection électroportative comprené des outils alimenté par des batterie.
-il permette de travailler en extérieur sans avoir de "fil à la patte".
+le lab posséde une collection électroportative comprenez des outils alimentés par des batteries.
+ils permettent de travailler en extérieur sans avoir de "fil à la patte".
+
+Toutes la collection utilise le format de batterie MAKITA 18v
+le lab mutualise donc deux batterie 18v 6 
+
 
 ## Scie plongeante circulaire DSP-601
 
@@ -25,7 +29,8 @@ Poids net 4,4 à 5,1 kg
 :material-alert: le lab possède la règle Makita 194925-9
 1900 mm,2.7kg.
 
-Il va sans dire que celle ci est fragile et que c'est un outil de précision toute déformation ou choc peuvent la rendre inutilisable 
+Il va sans dire que celle ci est fragile et que c'est un outil de précision toute déformation ou choc peuvent la rendre inutilisable.
+elle est à remettre délicatement dans sa boite en carton après usage.
 
 :material-alert: l'emsemble des batteries du lab sont nescessaires pour la faire fonctionner ;-)
 
