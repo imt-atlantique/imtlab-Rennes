@@ -6,7 +6,7 @@
 
 Toujours disponible !
 
-- Soit votre badge vous y donne accès (et vous avez lu [](Regles.md) les impératifs des outils que vous voulez utiliser.
+- Soit votre badge vous y donne accès (et vous avez lu [](Regles.md) les impératifs des outils que vous voulez utiliser et vous vous êtes formé à l'utilisation des outils que vous voulez utiliser.
   
 - Soit vous demander un rendez vous à laurent Mattlé qui vous accompagnera ( c'est la méthode à privilégier)
 
