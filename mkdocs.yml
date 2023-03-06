@@ -12,7 +12,7 @@ nav:
   - 'Modélisation 3D':
     - 'modélisation': modelisation3D/modelisation3D.md
   - 'Impression 3D' :
-    - 'Impression': impression_3D.md
+    - 'Impression': impression_3D/impression_3D.md
     - 'Résolution de problèmes' : impression_3D/troubleshooting.md
     - 'Fiche de sécurité' : impression_3D/fds.md
   - 'Machines et outils' : 
