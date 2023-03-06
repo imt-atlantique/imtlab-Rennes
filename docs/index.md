@@ -13,17 +13,10 @@ Toujours disponible !
 
 ## Actualité
 
-### Mois MI-MI
+### hackathon Petit bot
 
-> Tous les mardi 12H-14H (avec votre ordi et de quoi manger (si vous voulez)
-> 
-**Thèmatique**
-
-> mi-sept mi-octobre  **Modélisation 2D et lasercut**
-
-> mi-nov  mi-décembre **Modélisation 3D et impréssion3D**
-
-
+> Tremplin numérique : un objet roulant télécommande en wifi, des contraintes esthétique de folie.
+> Le tout soupoudré de gestion de projet, communication, et bien d'autres joyeusetés .....
 
 ## Localisation
 le lab est situé au rez-de-chaussée du batiment Cencyble.
