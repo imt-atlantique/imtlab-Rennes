@@ -6,24 +6,17 @@
 
 Toujours disponible !
 
-- Soit votre badge vous y donne accès (et vous avez lu [](Regles.md) les impératifs des outils que vous voulez utiliser.
+- Soit votre badge vous y donne accès (et vous avez lu [](Regles.md) les impératifs des outils que vous voulez utiliser et vous vous êtes formé à l'utilisation des outils que vous voulez utiliser.
   
 - Soit vous demander un rendez vous à laurent Mattlé qui vous accompagnera ( c'est la méthode à privilégier)
 
 
 ## Actualité
 
-### Mois MI-MI
+### hackathon Petit bot
 
-> Tous les mardi 12H-14H (avec votre ordi et de quoi manger (si vous voulez)
-> 
-**Thèmatique**
-
-> mi-sept mi-octobre  **Modélisation 2D et lasercut**
-
-> mi-nov  mi-décembre **Modélisation 3D et impréssion3D**
-
-
+> Tremplin numérique : un objet roulant télécommande en wifi, des contraintes esthétique de folie.
+> Le tout soupoudré de gestion de projet, communication, et bien d'autres joyeusetés .....
 
 ## Localisation
 le lab est situé au rez-de-chaussée du batiment Cencyble.
