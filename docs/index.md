@@ -13,9 +13,9 @@ Toujours disponible !
 
 ## Actualité
 
-### hackathon Petit bot
+### Fev : Hackathon Petit Bot 
 
-> Tremplin numérique : un objet roulant télécommande en wifi, des contraintes esthétique de folie.
+> Pour le **Tremplin numérique** : un objet roulant télécommande en wifi, des contraintes esthétiques de folie.
 > Le tout soupoudré de gestion de projet, communication, et bien d'autres joyeusetés .....
 
 ## Localisation
