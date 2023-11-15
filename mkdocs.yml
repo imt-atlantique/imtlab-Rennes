@@ -8,21 +8,21 @@ nav:
     - 'Règles' : Regles.md
     - 'Charte': chartes.md
     - 'Sécurité' : Securite.md
-    - 'secourisme' : secourisme.md
+    - 'Secourisme' : secourisme.md
   - 'Modélisation 3D':
-    - 'modélisation': modelisation3D/modelisation3D.md
+    - 'Modélisation': modelisation3D/modelisation3D.md
   - 'Impression 3D' :
     - 'Impression': impression_3D/impression_3D.md
     - 'Résolution de problèmes' : impression_3D/troubleshooting.md
     - 'Fiche de sécurité' : impression_3D/fds.md
   - 'Machines et outils' : 
-    - 'imprimantes 3D' : machines/imprimantes_3D.md
+    - 'Imprimantes 3D' : machines/imprimantes_3D.md
     - 'Découpeuse laser' : machines/découpeuse_laser.md
     - 'Fraiseuses numériques' : machines/fraiseuses_num.md
     - 'Combiné Ponceuse' : machines/Combiné_ponceuse.md
     - 'Scie ruban' : machines/scie_ruban.md
     - 'Microscope' : machines/microscope.md
-    - 'taraud' : Outils/taraud.md
+    - 'Taraud' : Outils/taraud.md
   - 'Ressources' :
     - 'Flashlab' : Ressources/flashlab.md
     - 'Halloween' : Ressources/Halloween.md
